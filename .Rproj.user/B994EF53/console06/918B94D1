@@ -1,940 +1,4 @@
-
-Untracked files:[0K
-  (use "git add <file>..." to include in what will be committed)[0K
-[0K
-        [0;31m.Rproj.user/[0m[0K
-        [0;31mG_Aspirantes.Rproj[0m[0K
-[0K
-nothing added to commit but untracked files present (use "git add" to track)[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Cifras/Aspirantes y Ad[0Km
-itidos/G_Aspirantes[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git status[0K[?25h[?25l
-[0K[?25hOn branch master[0K[?25l
-[0K
-No commits yet[0K
-[0K
-Untracked files:[0K
-  (use "git add <file>..." to include in what will be committed)[0K
-[0K
-        [0;31m.Rproj.user/[0m[0K
-        [0;31mG_Aspirantes.Rproj[0m[0K
-[0K
-nothing added to commit but untracked files present (use "git add" to track)[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Cifras/Aspirantes y Ad[0Km
-itidos/G_Aspirantes[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
-[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/sources/s-83F51829/49391B78.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Cifras/Aspirantes y Ad[0Km
-itidos/G_Aspirantes[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25hp[0Kr[0Ki[0Km[0Ke[0Kr[0Ka[0K[26G[?25l$ git commit -m "primera c[0K[?25ha[0Kr[0Kg[0Ka[0K"[0K[?25l
-[0K[?25h[master (root-commit) 6aeac43] primera carga[0K[?25l
- 7 files changed, 86 insertions(+)[0K
- create mode 100644 .Rproj.user/B994EF53/console06/918B94D1[0K
- create mode 100644 .Rproj.user/B994EF53/console06/INDEX001[0K
- create mode 100644 .Rproj.user/B994EF53/sources/s-83F51829/49391B78[0K
- create mode 100644 .Rproj.user/B994EF53/sources/s-83F51829/49391B78-contents[0K
- create mode 100644 .Rproj.user/B994EF53/sources/s-83F51829/lock_file[0K
- create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names[0K
- create mode 100644 G_Aspirantes.Rproj[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Cifras/Aspirantes y Ad[0Km
-itidos/G_Aspirantes[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ git commit -m "primera carga"[0K[?25h[?25l$ git commit -m "primera carga[0K[?25h[?25l$ git commit -m "primera carg[0K[?25h[?25l$ git commit -m "primera car[0K[?25h[?25l$ git commit -m "primera ca[0K[?25h[?25l$ git commit -m "primera c[0K[?25h[?25l$ git commit -m "primera[0K[26G[?25h[25G[?25l$ git commit -m "primer[0K[?25h[?25l$ git commit -m "prime[0K[?25h[?25l$ git commit -m "prim[0K[?25h[?25l$ git commit -m "pri[0K[?25h[?25l$ git commit -m "pr[0K[?25h[?25l$ git commit -m "p[0K[?25h[?25l$ git commit -m "[0K[?25h[?25l$ git commit -m[0K[17G[?25h[16G[?25l$ git commit -[0K[?25h[?25l$ git commit[0K[14G[?25h[13G[?25l$ git commi[0K[?25h[?25l$ git comm[0K[?25h[?25l$ git com[0K[?25h[?25l$ git co[0K[?25h[?25l$ git c[0K[?25h[?25l$ git[0K[7G[?25h[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git push origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
-[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
-error: cannot spawn rpostback-askpass: No such file or directory[0K
-Username for 'https://github.com':[0K[36G[?25h[?25lUsername for 'https://github.com': e[0K[?25hs[0Kt[0Ka[0Kd[0Ki[0Ks[0Kt[0Ki[0Kc[0Ka[0Ku[0Kn[0K[?25l
-error: cannot spawn rpostback-askpass: No such file or directory[0K
-Password for 'https://estadisticaun@github.com':[0K[50G[?25h[?25l
-[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
-[0K[?25hCounting objects: 14, done.[0K[?25l
-Delta compression using up to 8 threads.[0K
-Compressing objects: 100% (10/10), done.[0K
-Writing objects: 100% (14/14), 1.86 KiB | 1.86 MiB/s, done.[0K
-Total 14 (delta 0), reused 0 (delta 0)[0K
-[0K[?25hTo https://github.com/estadisticaun/G_Aspirantes.git[0K[?25l
- * [new branch]      master -> master[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Cifras/Aspirantes y Ad[0Km
-itidos/G_Aspirantes[0;36m (master)[0m[0K
-bash: cut: command not found[0K[?25l
-[0K[?25h]0;:/c/Users/Alberto/Documents/ONP/Oficina Nacional de Estadística/Cifras/Aspirantes y Admitidos/G_Aspirantes[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Cifras/Aspirantes y Ad[0Km
-itidos/G_Aspirantes[0;36m (master)[0m[0K
-$ gi[0K[?25ht[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
-[0K[?25hOn branch master[0K[?25l
-Your branch is up-to-date with 'origin/master'.[0K
-[0K
-Changes not staged for commit:[0K
-  (use "git add <file>..." to update what will be committed)[0K
-  (use "git checkout -- <file>..." to discard changes in working directory)[0K
-[0K
-        [0;31mmodified:   .Rproj.user/B994EF53/console06/918B94D1[0m[0K
-        [0;31mmodified:   .Rproj.user/B994EF53/console06/INDEX001[0m[0K
-[0K
-Untracked files:[0K
-  (use "git add <file>..." to include in what will be committed)[0K
-[0K
-        [0;31m.Rhistory[0m[0K
-        [0;31m.Rproj.user/B994EF53/pcs/[0m[0K
-        [0;31m.Rproj.user/B994EF53/rmd-outputs[0m[0K
-        [0;31m.Rproj.user/B994EF53/saved_source_markers[0m[0K
-        [0;31m20181/[0m[0K
-[0K
-no changes added to commit (use "git add" and/or "git commit -a")[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Cifras/Aspirantes y Ad[0Km
-itidos/G_Aspirantes[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
-[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/pcs/files-pane.pper.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/pcs/source-pane.pper.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/pcs/windowlayoutstate.pper.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/pcs/workbench-pane.pper.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/rmd-outputs.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/highcharts-6.0.3/css/motion.cs[0Ks[?25l
-.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/highcharts-6.0.3/custom/reset.[0Kj[?25l
-s.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/highcharts-6.0.3/custom/symbol[0Ks[?25l
--extra.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/highcharts-6.0.3/custom/text-s[0Ky[?25l
-mbols.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/highcharts-6.0.3/highcharts-3d[0K.[?25l
-js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/highcharts-6.0.3/highcharts-mo[0Kr[?25l
-e.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/highcharts-6.0.3/highcharts.js[0K.[?25l
-[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/highcharts-6.0.3/maps/modules/[0Km[?25l
-ap.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/highcharts-6.0.3/modules/acces[0Ks[?25l
-ibility.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/highcharts-6.0.3/modules/annot[0Ka[?25l
-tions.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/highcharts-6.0.3/modules/boost[0K-[?25l
-canvas.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/highcharts-6.0.3/modules/boost[0K.[?25l
-js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/highcharts-6.0.3/modules/broke[0Kn[?25l
--axis.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/highcharts-6.0.3/modules/bulle[0Kt[?25l
-.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/highcharts-6.0.3/modules/data.[0Kj[?25l
-s.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hw[0Karning: LF will be replaced by CRLF in 20181/Pre/libraryjs/highcharts-6.0.3/modules/drag-[0Kp[?25l
-anes.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/highcharts-6.0.3/modules/drill[0Kd[?25l
-own.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/highcharts-6.0.3/modules/expor[0Kt[?25l
--data.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/highcharts-6.0.3/modules/expor[0Kt[?25l
-ing.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/highcharts-6.0.3/modules/funne[0Kl[?25l
-.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/highcharts-6.0.3/modules/gantt[0K.[?25l
-js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/highcharts-6.0.3/modules/grid-[0Ka[?25l
-xis.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/highcharts-6.0.3/modules/heatm[0Ka[?25l
-p.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/highcharts-6.0.3/modules/histo[0Kg[?25l
-ram-bellcurve.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/highcharts-6.0.3/modules/item-[0Ks[?25l
-eries.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/highcharts-6.0.3/modules/no-da[0Kt[?25l
-a-to-display.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/highcharts-6.0.3/modules/offli[0Kn[?25l
-e-exporting.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/highcharts-6.0.3/modules/oldie[0K.[?25l
-js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/highcharts-6.0.3/modules/overl[0Ka[?25l
-pping-datalabels.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/highcharts-6.0.3/modules/paral[0Kl[?25l
-el-coordinates.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/highcharts-6.0.3/modules/paret[0Ko[?25l
-.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/highcharts-6.0.3/modules/sanke[0Ky[?25l
-.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/highcharts-6.0.3/modules/serie[0Ks[?25l
--label.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/highcharts-6.0.3/modules/solid[0K-[?25l
-gauge.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/highcharts-6.0.3/modules/stati[0Kc[?25l
--scale.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/highcharts-6.0.3/modules/stock[0K.[?25l
-js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/highcharts-6.0.3/modules/strea[0Km[?25l
-graph.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/highcharts-6.0.3/modules/sunbu[0Kr[?25l
-st.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/highcharts-6.0.3/modules/treem[0Ka[?25l
-p.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/highcharts-6.0.3/modules/varia[0Kb[?25l
-le-pie.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/highcharts-6.0.3/modules/variw[0Ki[?25l
-de.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/highcharts-6.0.3/modules/vecto[0Kr[?25l
-.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/highcharts-6.0.3/modules/windb[0Ka[?25l
-rb.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/highcharts-6.0.3/modules/wordc[0Kl[?25l
-oud.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/highcharts-6.0.3/modules/xrang[0Ke[?25l
-.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/highcharts-6.0.3/stock/highsto[0Kc[?25l
-k.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/htmlwidgets-1.0/htmlwidgets.js[0K.[?25l
-[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/proj4js-2.3.15/proj4.js.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Cifras/Aspirantes y Ad[0Km
-itidos/G_Aspirantes[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25hP[0Kr[0Ki[0Km[0Ke[0Kr[0K[25G[?25l$ git commit -m "Primer G[0K[?25hr[0Ká[0Kf[0Ki[0Kc[0Ko[0K"[0K[?25l
-[0K[?25h[master 3aef14c] Primer Gráfico[0K[?25l
- 71 files changed, 3600 insertions(+), 1 deletion(-)[0K
- create mode 100644 .Rhistory[0K
- rewrite .Rproj.user/B994EF53/console06/INDEX001 (100%)[0K
- create mode 100644 .Rproj.user/B994EF53/pcs/files-pane.pper[0K
- create mode 100644 .Rproj.user/B994EF53/pcs/source-pane.pper[0K
- create mode 100644 .Rproj.user/B994EF53/pcs/windowlayoutstate.pper[0K
- create mode 100644 .Rproj.user/B994EF53/pcs/workbench-pane.pper[0K
- create mode 100644 .Rproj.user/B994EF53/rmd-outputs[0K
- create mode 100644 .Rproj.user/B994EF53/saved_source_markers[0K
- create mode 100644 20181/Pre/Serie.html[0K
- create mode 100644 20181/Pre/libraryjs/highchart-binding-0.5.0.9999/highchart.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/css/motion.css[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/custom/reset.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/custom/symbols-extra.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/custom/text-symbols.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/highcharts-3d.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/highcharts-more.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/highcharts.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/maps/modules/map.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/modules/accessibility.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/modules/annotations.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/modules/boost-canvas.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/modules/boost.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/modules/broken-axis.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/modules/bullet.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/modules/data.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/modules/drag-panes.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/modules/drilldown.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/modules/export-data.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/modules/exporting.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/modules/funnel.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/modules/gantt.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/modules/grid-axis.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/modules/heatmap.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/modules/histogram-bellcurve.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/modules/item-series.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/modules/no-data-to-display.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/modules/offline-exporting.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/modules/oldie.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/modules/overlapping-datalabels.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/modules/parallel-coordinates.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/modules/pareto.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/modules/sankey.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/modules/series-label.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/modules/solid-gauge.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/modules/static-scale.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/modules/stock.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/modules/streamgraph.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/modules/sunburst.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/modules/treemap.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/modules/variable-pie.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/modules/variwide.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/modules/vector.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/modules/windbarb.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/modules/wordcloud.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/modules/xrange.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/plugins/annotations.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/plugins/draggable-legend.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/plugins/draggable-points.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/plugins/export-csv.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/plugins/grouped-categories.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/plugins/highcharts-regression.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/plugins/motion.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/plugins/multicolor_series.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/plugins/pattern-fill-v2.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/plugins/tooltip-delay.js[0K
- create mode 100644 20181/Pre/libraryjs/highcharts-6.0.3/stock/highstock.js[0K
- create mode 100644 20181/Pre/libraryjs/htmlwdgtgrid-1/htmlwdgtgrid.css[0K
- create mode 100644 20181/Pre/libraryjs/htmlwidgets-1.0/htmlwidgets.js[0K
- create mode 100644 20181/Pre/libraryjs/jquery-1.11.1/jquery.min.js[0K
- create mode 100644 20181/Pre/libraryjs/proj4js-2.3.15/proj4.js[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Cifras/Aspirantes y Ad[0Km
-itidos/G_Aspirantes[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git push origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
-[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
-error: cannot spawn rpostback-askpass: No such file or directory[0K
-Username for 'https://github.com':[0K[36G[?25h[?25lUsername for 'https://github.com': e[0K[?25hs[0Kt[0Ka[0Kd[0Ki[0Ks[0Kt[0Ki[0Kc[0Ka[0Ku[0Kn[0K[?25l
-error: cannot spawn rpostback-askpass: No such file or directory[0K
-Password for 'https://estadisticaun@github.com':[0K[50G[?25h[?25l
-[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
-[0K[?25hCounting objects: 92, done.[0K[?25l
-Delta compression using up to 8 threads.[0K
-Compressing objects:  55% (44/79)[0K[1G[?25hCompressing objects: 100% (79/79), done.[0K[?25l
-Writing objects:  46% (43/92)[0K[1G[?25hWriting objects: 100% (92/92), 395.95 KiB | 7.76 MiB/s, done.[0K[?25l
-Total 92 (delta 3), reused 0 (delta 0)[0K
-[0K[?25hremote: Resolving deltas:  66% (2/3)[0K[40G[?25lremote: Resolving deltas: 100% (3/3), completed with 1 local object.[0K
-[0K[?25hTo https://github.com/estadisticaun/G_Aspirantes.git[0K[?25l
-   6aeac43..3aef14c  master -> master[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Cifras/Aspirantes y Ad[0Km
-itidos/G_Aspirantes[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
-[0K[?25hOn branch master[0K[?25l
-Your branch is up-to-date with 'origin/master'.[0K
-[0K
-Changes not staged for commit:[0K
-  (use "git add <file>..." to update what will be committed)[0K
-  (use "git checkout -- <file>..." to discard changes in working directory)[0K
-[0K
-        [0;31mmodified:   .Rproj.user/B994EF53/console06/918B94D1[0m[0K
-        [0;31mmodified:   20181/Pre/Serie.html[0m[0K
-[0K
-Untracked files:[0K
-  (use "git add <file>..." to include in what will be committed)[0K
-[0K
-        [0;31m20181/Pre/A_admitidos.html[0m[0K
-        [0;31m20181/Pre/A_discapacidad.html[0m[0K
-        [0;31m20181/Pre/A_edad.html[0m[0K
-        [0;31m20181/Pre/A_estrato.html[0m[0K
-        [0;31m20181/Pre/A_modalidad.html[0m[0K
-        [0;31m20181/Pre/A_nacionalidad.html[0m[0K
-        [0;31m20181/Pre/A_paes.html[0m[0K
-        [0;31m20181/Pre/A_peama.html[0m[0K
-        [0;31m20181/Pre/A_sede.html[0m[0K
-        [0;31m20181/Pre/A_sexo.html[0m[0K
-        [0;31m20181/Pre/A_tipo.html[0m[0K
-        [0;31m20181/Pre/S_admitidos.html[0m[0K
-        [0;31m20181/Pre/S_discapacidad.html[0m[0K
-        [0;31m20181/Pre/S_edad.html[0m[0K
-        [0;31m20181/Pre/S_estrato.html[0m[0K
-        [0;31m20181/Pre/S_modalidad.html[0m[0K
-        [0;31m20181/Pre/S_nacionalidad.html[0m[0K
-        [0;31m20181/Pre/S_paes.html[0m[0K
-        [0;31m20181/Pre/S_peama.html[0m[0K
-        [0;31m20181/Pre/S_puntaje.html[0m[0K
-        [0;31m20181/Pre/S_puntajec.html[0m[0K
-        [0;31m20181/Pre/S_sede.html[0m[0K
-        [0;31m20181/Pre/S_sexo.html[0m[0K
-        [0;31m20181/Pre/S_tipo.html[0m[0K
-        [0;31m20181/Pre/T_admitidos.html[0m[0K
-        [0;31m20181/Pre/T_discapacidad.html[0m[0K
-        [0;31m20181/Pre/T_edad.html[0m[0K
-        [0;31m20181/Pre/T_estrato.html[0m[0K
-        [0;31m20181/Pre/T_modalidad.html[0m[0K
-        [0;31m20181/Pre/T_nacionalidad.html[0m[0K
-        [0;31m20181/Pre/T_paes.html[0m[0K
-        [0;31m20181/Pre/T_peama.html[0m[0K
-        [0;31m20181/Pre/T_sede.html[0m[0K
-        [0;31m20181/Pre/T_sexo.html[0m[0K
-        [0;31m20181/Pre/T_tipo.html[0m[0K
-        [0;31m20181/Pre/libraryjs/crosstalk-1.0.0/[0m[0K
-        [0;31m20181/Pre/libraryjs/datatables-binding-0.4/[0m[0K
-        [0;31m20181/Pre/libraryjs/datatables-css-0.0.0/[0m[0K
-        [0;31m20181/Pre/libraryjs/dt-core-1.10.16/[0m[0K
-        [0;31m20181/Pre/libraryjs/dt-ext-buttons-1.10.16/[0m[0K
-        [0;31m20181/Pre/libraryjs/dt-ext-keytable-1.10.16/[0m[0K
-        [0;31m20181/Pre/libraryjs/dt-ext-responsive-1.10.16/[0m[0K
-        [0;31m20181/Pre/libraryjs/dt-plugin-searchhighlight-1.10.16/[0m[0K
-        [0;31m20181/Pre/libraryjs/jquery-1.12.4/[0m[0K
-        [0;31m20181/Pre/libraryjs/jszip-1.10.16/[0m[0K
-        [0;31m20181/Pre/libraryjs/nouislider-7.0.10/[0m[0K
-        [0;31m20181/Pre/libraryjs/pdfmake-1.10.16/[0m[0K
-        [0;31m20181/Pre/libraryjs/selectize-0.12.0/[0m[0K
-[0K
-no changes added to commit (use "git add" and/or "git commit -a")[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Cifras/Aspirantes y Ad[0Km
-itidos/G_Aspirantes[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/crosstalk-1.0.0/css/crosstalk.[0Kc[?25l
-ss.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/crosstalk-1.0.0/js/crosstalk.j[0Ks[?25l
-.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/crosstalk-1.0.0/js/crosstalk.j[0Ks[?25l
-.map.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/crosstalk-1.0.0/js/crosstalk.m[0Ki[?25l
-n.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/datatables-binding-0.4/datatab[0Kl[?25l
-es.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/datatables-css-0.0.0/datatable[0Ks[?25l
--crosstalk.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/Pre/libraryjs/dt-core-1.10.16/css/jquery.dat[0Ka
-Tables.extra.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/dt-core-1.10.16/css/jquery.dat[0Ka[?25l
-Tables.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/Pre/libraryjs/dt-core-1.10.16/js/jquery.data[0KT
-ables.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/dt-ext-buttons-1.10.16/css/but[0Kt[?25l
-ons.dataTables.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/Pre/libraryjs/dt-ext-buttons-1.10.16/js/butt[0Ko
-ns.colVis.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/dt-ext-buttons-1.10.16/js/butt[0Ko[?25l
-ns.flash.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/dt-ext-buttons-1.10.16/js/butt[0Ko[?25l
-ns.html5.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/Pre/libraryjs/dt-ext-buttons-1.10.16/js/butt[0Ko
-ns.print.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/dt-ext-buttons-1.10.16/js/data[0KT[?25l
-ables.buttons.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/dt-ext-keytable-1.10.16/css/ke[0Ky[?25l
-Table.dataTables.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/dt-ext-keytable-1.10.16/js/dat[0Ka[?25l
-Tables.keyTable.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/dt-ext-responsive-1.10.16/css/[0Kr[?25l
-esponsive.dataTables.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/dt-ext-responsive-1.10.16/js/d[0Ka[?25l
-taTables.responsive.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/dt-plugin-searchhighlight-1.10[0K.[?25l
-16/dataTables.searchHighlight.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/dt-plugin-searchhighlight-1.10[0K.[?25l
-16/dataTables.searchHighlight.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/dt-plugin-searchhighlight-1.10[0K.[?25l
-16/jquery.highlight.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/jquery-1.12.4/LICENSE.txt.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/jquery-1.12.4/jquery.min.js.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/jszip-1.10.16/jszip.min.js.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/nouislider-7.0.10/jquery.nouis[0Kl[?25l
-ider.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/nouislider-7.0.10/jquery.nouis[0Kl[?25l
-ider.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/pdfmake-1.10.16/pdfmake.min.js[0K.[?25l
-[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/selectize-0.12.0/selectize.boo[0Kt[?25l
-strap3.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/selectize-0.12.0/selectize.min[0K.[?25l
-js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Cifras/Aspirantes y Ad[0Km
-itidos/G_Aspirantes[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25hC[0Ka[0Kr[0Kg[0Ka[0K[24G[?25l$ git commit -m "Carga g[0K[?25hr[0Ka[0Kf[0Ki[0Kc[0Ko[0Ks[0K[33G[?25l$ git commit -m "Carga graficos a[0K[?25hs[0Kp[0Ki[0Kr[0Ka[0Kn[0Kt[0Ke[0Ks[0K[44G[?25l$ git commit -m "Carga graficos aspirantes 2[0K[?25h0[0K1[0K8[0K1[0K[50G[?25l$ git commit -m "Carga graficos aspirantes 20181 e[0K[?25hs[0Kt[0Kr[0Ku[0Kc[0Kt[0Ku[0Kr[0Ka[0Kd[0Ko[0Ks[0K"[0K[?25l
-[0K[?25h[master 40bc0fb] Carga graficos aspirantes 20181 estructurados[0K[?25l
- 69 files changed, 5721 insertions(+), 3 deletions(-)[0K
- create mode 100644 20181/Pre/A_admitidos.html[0K
- create mode 100644 20181/Pre/A_discapacidad.html[0K
- create mode 100644 20181/Pre/A_edad.html[0K
- create mode 100644 20181/Pre/A_estrato.html[0K
- create mode 100644 20181/Pre/A_modalidad.html[0K
- create mode 100644 20181/Pre/A_nacionalidad.html[0K
- create mode 100644 20181/Pre/A_paes.html[0K
- create mode 100644 20181/Pre/A_peama.html[0K
- create mode 100644 20181/Pre/A_sede.html[0K
- create mode 100644 20181/Pre/A_sexo.html[0K
- create mode 100644 20181/Pre/A_tipo.html[0K
- create mode 100644 20181/Pre/S_admitidos.html[0K
- create mode 100644 20181/Pre/S_discapacidad.html[0K
- create mode 100644 20181/Pre/S_edad.html[0K
- create mode 100644 20181/Pre/S_estrato.html[0K
- create mode 100644 20181/Pre/S_modalidad.html[0K
- create mode 100644 20181/Pre/S_nacionalidad.html[0K
- create mode 100644 20181/Pre/S_paes.html[0K
- create mode 100644 20181/Pre/S_peama.html[0K
- create mode 100644 20181/Pre/S_puntaje.html[0K
- create mode 100644 20181/Pre/S_puntajec.html[0K
- create mode 100644 20181/Pre/S_sede.html[0K
- create mode 100644 20181/Pre/S_sexo.html[0K
- create mode 100644 20181/Pre/S_tipo.html[0K
- create mode 100644 20181/Pre/T_admitidos.html[0K
- create mode 100644 20181/Pre/T_discapacidad.html[0K
- create mode 100644 20181/Pre/T_edad.html[0K
- create mode 100644 20181/Pre/T_estrato.html[0K
- create mode 100644 20181/Pre/T_modalidad.html[0K
- create mode 100644 20181/Pre/T_nacionalidad.html[0K
- create mode 100644 20181/Pre/T_paes.html[0K
- create mode 100644 20181/Pre/T_peama.html[0K
- create mode 100644 20181/Pre/T_sede.html[0K
- create mode 100644 20181/Pre/T_sexo.html[0K
- create mode 100644 20181/Pre/T_tipo.html[0K
- create mode 100644 20181/Pre/libraryjs/crosstalk-1.0.0/css/crosstalk.css[0K
- create mode 100644 20181/Pre/libraryjs/crosstalk-1.0.0/js/crosstalk.js[0K
- create mode 100644 20181/Pre/libraryjs/crosstalk-1.0.0/js/crosstalk.js.map[0K
- create mode 100644 20181/Pre/libraryjs/crosstalk-1.0.0/js/crosstalk.min.js[0K
- create mode 100644 20181/Pre/libraryjs/crosstalk-1.0.0/js/crosstalk.min.js.map[0K
- create mode 100644 20181/Pre/libraryjs/datatables-binding-0.4/datatables.js[0K
- create mode 100644 20181/Pre/libraryjs/datatables-css-0.0.0/datatables-crosstalk.css[0K
- create mode 100644 20181/Pre/libraryjs/dt-core-1.10.16/css/jquery.dataTables.extra.css[0K
- create mode 100644 20181/Pre/libraryjs/dt-core-1.10.16/css/jquery.dataTables.min.css[0K
- create mode 100644 20181/Pre/libraryjs/dt-core-1.10.16/js/jquery.dataTables.min.js[0K
- create mode 100644 20181/Pre/libraryjs/dt-ext-buttons-1.10.16/css/buttons.dataTables.min.[0Kc
-ss[0K
- create mode 100644 20181/Pre/libraryjs/dt-ext-buttons-1.10.16/js/buttons.colVis.min.js[0K
- create mode 100644 20181/Pre/libraryjs/dt-ext-buttons-1.10.16/js/buttons.flash.min.js[0K
- create mode 100644 20181/Pre/libraryjs/dt-ext-buttons-1.10.16/js/buttons.html5.min.js[0K
- create mode 100644 20181/Pre/libraryjs/dt-ext-buttons-1.10.16/js/buttons.print.min.js[0K
- create mode 100644 20181/Pre/libraryjs/dt-ext-buttons-1.10.16/js/dataTables.buttons.min.j[0Ks
-[0K
- create mode 100644 20181/Pre/libraryjs/dt-ext-keytable-1.10.16/css/keyTable.dataTables.mi[0Kn
-.css[0K
- create mode 100644 20181/Pre/libraryjs/dt-ext-keytable-1.10.16/js/dataTables.keyTable.min[0K.
-js[0K
- create mode 100644 20181/Pre/libraryjs/dt-ext-responsive-1.10.16/css/responsive.dataTable[0Ks
-.min.css[0K
- create mode 100644 20181/Pre/libraryjs/dt-ext-responsive-1.10.16/js/dataTables.responsive[0K.
-min.js[0K
- create mode 100644 20181/Pre/libraryjs/dt-plugin-searchhighlight-1.10.16/dataTables.searc[0Kh
-Highlight.css[0K
- create mode 100644 20181/Pre/libraryjs/dt-plugin-searchhighlight-1.10.16/dataTables.searc[0Kh
-Highlight.min.js[0K
- create mode 100644 20181/Pre/libraryjs/dt-plugin-searchhighlight-1.10.16/jquery.highlight[0K.
-js[0K
- create mode 100644 20181/Pre/libraryjs/jquery-1.12.4/LICENSE.txt[0K
- create mode 100644 20181/Pre/libraryjs/jquery-1.12.4/jquery.min.js[0K
- create mode 100644 20181/Pre/libraryjs/jszip-1.10.16/jszip.min.js[0K
- create mode 100644 20181/Pre/libraryjs/nouislider-7.0.10/jquery.nouislider.min.css[0K
- create mode 100644 20181/Pre/libraryjs/nouislider-7.0.10/jquery.nouislider.min.js[0K
- create mode 100644 20181/Pre/libraryjs/pdfmake-1.10.16/pdfmake.min.js[0K
- create mode 100644 20181/Pre/libraryjs/pdfmake-1.10.16/vfs_fonts.js[0K
- create mode 100644 20181/Pre/libraryjs/selectize-0.12.0/selectize.bootstrap3.css[0K
- create mode 100644 20181/Pre/libraryjs/selectize-0.12.0/selectize.min.js[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Cifras/Aspirantes y Ad[0Km
-itidos/G_Aspirantes[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git push origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
-[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
-error: cannot spawn rpostback-askpass: No such file or directory[0K
-Username for 'https://github.com':[0K[36G[?25h[?25lUsername for 'https://github.com': e[0K[?25hs[0Kt[0Ka[0Kd[0Ki[0Ks[0Kt[0Ki[0Kc[0Ka[0Ku[0Kn[0K[?25l
-error: cannot spawn rpostback-askpass: No such file or directory[0K
-Password for 'https://estadisticaun@github.com':[0K[50G[?25h[?25l
-[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
-[0K[?25hCounting objects: 100, done.[0K[?25l
-Delta compression using up to 8 threads.[0K
-Compressing objects:  58% (56/96)[0K[1G[?25hCompressing objects: 100% (96/96), done.[0K[?25l
-Writing objects:  77% (77/100)[0K[1G[?25h[?25lWriting objects:  96% (96/100)[0K[1G[?25hWriting objects: 100% (100/100), 611.10 KiB | 8.26 MiB/s, done.[0K[?25l
-Total 100 (delta 34), reused 0 (delta 0)[0K
-[0K[?25hremote: Resolving deltas: 100% (34/34), completed with 2 local objects.[0K[?25l
-[0K[?25hTo https://github.com/estadisticaun/G_Aspirantes.git[0K[?25l
-   3aef14c..40bc0fb  master -> master[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Cifras/Aspirantes y Ad[0Km
-itidos/G_Aspirantes[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
-[0K[?25hOn branch master[0K[?25l
-Your branch is up-to-date with 'origin/master'.[0K
-[0K
-Changes not staged for commit:[0K
-  (use "git add/rm <file>..." to update what will be committed)[0K
-  (use "git checkout -- <file>..." to discard changes in working directory)[0K
-[0K
-        [0;31mmodified:   .Rproj.user/B994EF53/console06/918B94D1[0m[0K
-        [0;31mdeleted:    20181/Pre/libraryjs/jquery-1.12.4/LICENSE.txt[0m[0K
-[0K
-Untracked files:[0K
-  (use "git add <file>..." to include in what will be committed)[0K
-[0K
-        [0;31m20181/Pre/Nac_col1.html[0m[0K
-        [0;31m20181/Pre/Nac_comb.html[0m[0K
-        [0;31m20181/Pre/Nac_dpto.html[0m[0K
-        [0;31m20181/Pre/Nac_mun.html[0m[0K
-        [0;31m20181/Pre/Resi_col1.html[0m[0K
-        [0;31m20181/Pre/Resi_comb.html[0m[0K
-        [0;31m20181/Pre/Resi_dpto.html[0m[0K
-        [0;31m20181/Pre/Resi_mun.html[0m[0K
-        [0;31m20181/Pre/libraryjs/Proj4Leaflet-0.7.2/[0m[0K
-        [0;31m20181/Pre/libraryjs/bootstrap-3.3.7/[0m[0K
-        [0;31m20181/Pre/libraryjs/jquery-1.12.4/jquery.js[0m[0K
-        [0;31m20181/Pre/libraryjs/leaflet-0.7.7/[0m[0K
-        [0;31m20181/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/[0m[0K
-        [0;31m20181/Pre/libraryjs/leaflet-binding-1.1.0/[0m[0K
-        [0;31m20181/Pre/libraryjs/leaflet-easybutton-1.3.1/[0m[0K
-        [0;31m20181/Pre/libraryjs/leaflet-label-0.2.2/[0m[0K
-        [0;31m20181/Pre/libraryjs/leaflet-minimap-3.3.1/[0m[0K
-        [0;31m20181/Pre/libraryjs/leaflet-providers-1.0.27/[0m[0K
-        [0;31m20181/Pre/libraryjs/leaflet-providers-plugin-1.1.0/[0m[0K
-        [0;31m20181/Pre/libraryjs/leafletfix-1.0.0/[0m[0K
-[0K
-no changes added to commit (use "git add" and/or "git commit -a")[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Cifras/Aspirantes y Ad[0Km
-itidos/G_Aspirantes[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/Proj4Leaflet-0.7.2/proj4-compr[0Ke[?25l
-ssed.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/Proj4Leaflet-0.7.2/proj4.js.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/bootstrap-3.3.7/bootstrap-them[0Ke[?25l
-.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/Pre/libraryjs/bootstrap-3.3.7/bootstrap.min.[0Kc
-ss.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hw[0Karning: LF will be replaced by CRLF in 20181/Pre/libraryjs/bootstrap-3.3.7/bootstrap.min.[0Kj[?25l
-s.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/bootstrap-3.3.7/font-awesome.m[0Ki[?25l
-n.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/bootstrap-3.3.7/fonts/fontawes[0Ko[?25l
-me-webfont.svg.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/bootstrap-3.3.7/fonts/glyphico[0Kn[?25l
-s-halflings-regular.svg.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/bootstrap-3.3.7/fonts/ionicons[0K.[?25l
-svg.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/bootstrap-3.3.7/ionicons.min.c[0Ks[?25l
-s.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/bootstrap-3.3.7/leaflet.awesom[0Ke[?25l
--markers.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/bootstrap-3.3.7/leaflet.awesom[0Ke[?25l
--markers.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/bootstrap-3.3.7/leaflet.awesom[0Ke[?25l
--markers.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/jquery-1.12.4/jquery.js.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/leaflet-0.7.7/leaflet-src.js.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/leaflet-0.7.7/leaflet.js.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/b[0Ko[?25l
-otstrap-theme.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/b[0Ko
-otstrap.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/b[0Ko
-otstrap.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/f[0Ko
-nt-awesome.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/f[0Ko
-nts/fontawesome-webfont.svg.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/f[0Ko
-nts/glyphicons-halflings-regular.svg.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/f[0Ko
-nts/ionicons.svg.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/i[0Ko
-nicons.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/l[0Ke
-aflet.awesome-markers.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/l[0Ke[?25l
-aflet.awesome-markers.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/l[0Ke
-aflet.awesome-markers.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/Pre/libraryjs/leaflet-binding-1.1.0/leaflet.[0Kj
-s.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/leaflet-easybutton-1.3.1/EasyB[0Ku[?25l
-tton-binding.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/leaflet-easybutton-1.3.1/LICEN[0KS[?25l
-E.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/leaflet-easybutton-1.3.1/easy-[0Kb[?25l
-utton.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20181/Pre/libraryjs/leaflet-easybutton-1.3.1/easy-[0Kb
-utton.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/leaflet-label-0.2.2/leaflet.la[0Kb[?25l
-el-src.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/leaflet-label-0.2.2/leaflet.la[0Kb[?25l
-el.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/leaflet-label-0.2.2/leaflet.la[0Kb[?25l
-el.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/leaflet-minimap-3.3.1/Control.[0KM[?25l
-iniMap.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/leaflet-minimap-3.3.1/Control.[0KM[?25l
-iniMap.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/leaflet-minimap-3.3.1/Minimap-[0Kb[?25l
-inding.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/leaflet-providers-1.0.27/CONTR[0KI[?25l
-BUTING.md.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/leaflet-providers-1.0.27/READM[0KE[?25l
-.md.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/leaflet-providers-1.0.27/bower[0K.[?25l
-json.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/leaflet-providers-1.0.27/leafl[0Ke[?25l
-t-providers.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/leaflet-providers-1.0.27/licen[0Ks[?25l
-e.md.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/leaflet-providers-1.0.27/packa[0Kg[?25l
-e.json.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/leaflet-providers-1.0.27/provi[0Kd[?25l
-ers.json.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/leaflet-providers-plugin-1.1.0[0K/[?25l
-leaflet-providers-plugin.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in 20181/Pre/libraryjs/leafletfix-1.0.0/leafletfix.cs[0Ks[?25l
-.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Cifras/Aspirantes y Ad[0Km
-itidos/G_Aspirantes[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25hS[0Ke[0K[21G[?25l$ git commit -m "Se c[0K[?25ha[0Kr[0Kg[0Ka[0Kn[0K[28G[?25l$ git commit -m "Se cargan m[0K[?25ha[0Kp[0Ka[0Ks[0K"[0K[?25l
-[0K[?25h[master aced069] Se cargan mapas[0K[?25l
- 106 files changed, 43802 insertions(+), 37 deletions(-)[0K
- create mode 100644 20181/Pre/Nac_col1.html[0K
- create mode 100644 20181/Pre/Nac_comb.html[0K
- create mode 100644 20181/Pre/Nac_dpto.html[0K
- create mode 100644 20181/Pre/Nac_mun.html[0K
- create mode 100644 20181/Pre/Resi_col1.html[0K
- create mode 100644 20181/Pre/Resi_comb.html[0K
- create mode 100644 20181/Pre/Resi_dpto.html[0K
- create mode 100644 20181/Pre/Resi_mun.html[0K
- create mode 100644 20181/Pre/libraryjs/Proj4Leaflet-0.7.2/proj4-compressed.js[0K
- create mode 100644 20181/Pre/libraryjs/Proj4Leaflet-0.7.2/proj4.js[0K
- create mode 100644 20181/Pre/libraryjs/Proj4Leaflet-0.7.2/proj4leaflet.js[0K
- create mode 100644 20181/Pre/libraryjs/bootstrap-3.3.7/bootstrap-theme.min.css[0K
- create mode 100644 20181/Pre/libraryjs/bootstrap-3.3.7/bootstrap.min.css[0K
- create mode 100644 20181/Pre/libraryjs/bootstrap-3.3.7/bootstrap.min.js[0K
- create mode 100644 20181/Pre/libraryjs/bootstrap-3.3.7/font-awesome.min.css[0K
- create mode 100644 20181/Pre/libraryjs/bootstrap-3.3.7/fonts/FontAwesome.otf[0K
- create mode 100644 20181/Pre/libraryjs/bootstrap-3.3.7/fonts/fontawesome-webfont.eot[0K
- create mode 100644 20181/Pre/libraryjs/bootstrap-3.3.7/fonts/fontawesome-webfont.svg[0K
- create mode 100644 20181/Pre/libraryjs/bootstrap-3.3.7/fonts/fontawesome-webfont.ttf[0K
- create mode 100644 20181/Pre/libraryjs/bootstrap-3.3.7/fonts/fontawesome-webfont.woff[0K
- create mode 100644 20181/Pre/libraryjs/bootstrap-3.3.7/fonts/glyphicons-halflings-regular[0K.
-eot[0K
- create mode 100644 20181/Pre/libraryjs/bootstrap-3.3.7/fonts/glyphicons-halflings-regular[0K.
-svg[0K
- create mode 100644 20181/Pre/libraryjs/bootstrap-3.3.7/fonts/glyphicons-halflings-regular[0K.
-ttf[0K
- create mode 100644 20181/Pre/libraryjs/bootstrap-3.3.7/fonts/glyphicons-halflings-regular[0K.
-woff[0K
- create mode 100644 20181/Pre/libraryjs/bootstrap-3.3.7/fonts/ionicons.eot[0K
- create mode 100644 20181/Pre/libraryjs/bootstrap-3.3.7/fonts/ionicons.svg[0K
- create mode 100644 20181/Pre/libraryjs/bootstrap-3.3.7/fonts/ionicons.ttf[0K
- create mode 100644 20181/Pre/libraryjs/bootstrap-3.3.7/fonts/ionicons.woff[0K
- create mode 100644 20181/Pre/libraryjs/bootstrap-3.3.7/images/markers-matte.png[0K
- create mode 100644 20181/Pre/libraryjs/bootstrap-3.3.7/images/markers-matte@2x.png[0K
- create mode 100644 20181/Pre/libraryjs/bootstrap-3.3.7/images/markers-plain.png[0K
- create mode 100644 20181/Pre/libraryjs/bootstrap-3.3.7/images/markers-shadow.png[0K
- create mode 100644 20181/Pre/libraryjs/bootstrap-3.3.7/images/markers-shadow@2x.png[0K
- create mode 100644 20181/Pre/libraryjs/bootstrap-3.3.7/images/markers-soft.png[0K
- create mode 100644 20181/Pre/libraryjs/bootstrap-3.3.7/images/markers-soft@2x.png[0K
- create mode 100644 20181/Pre/libraryjs/bootstrap-3.3.7/ionicons.min.css[0K
- create mode 100644 20181/Pre/libraryjs/bootstrap-3.3.7/leaflet.awesome-markers.css[0K
- create mode 100644 20181/Pre/libraryjs/bootstrap-3.3.7/leaflet.awesome-markers.js[0K
- create mode 100644 20181/Pre/libraryjs/bootstrap-3.3.7/leaflet.awesome-markers.min.js[0K
- delete mode 100644 20181/Pre/libraryjs/jquery-1.12.4/LICENSE.txt[0K
- create mode 100644 20181/Pre/libraryjs/jquery-1.12.4/jquery.js[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-0.7.7/images/1px.png[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-0.7.7/images/layers-2x.png[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-0.7.7/images/layers.png[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-0.7.7/images/marker-icon-2x.png[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-0.7.7/images/marker-icon.png[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-0.7.7/images/marker-shadow.png[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-0.7.7/leaflet-src.js[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-0.7.7/leaflet.css[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-0.7.7/leaflet.js[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/bootstrap-theme.min.c[0Ks
-s[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/bootstrap.min.css[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/bootstrap.min.js[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/font-awesome.min.css[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/FontAwesome.otf[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/fontawesome-web[0Kf
-ont.eot[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/fontawesome-web[0Kf
-ont.svg[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/fontawesome-web[0Kf
-ont.ttf[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/fontawesome-web[0Kf
-ont.woff[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/glyphicons-half[0Kl
-ings-regular.eot[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/glyphicons-half[0Kl
-ings-regular.svg[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/glyphicons-half[0Kl
-ings-regular.ttf[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/glyphicons-half[0Kl
-ings-regular.woff[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/ionicons.eot[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/ionicons.svg[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/ionicons.ttf[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/ionicons.woff[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-matte.[0Kp
-ng[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-matte@[0K2
-x.png[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-plain.[0Kp
-ng[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-shadow[0K.
-png[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-shadow[0K@
-2x.png[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-soft.p[0Kn
-g[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-soft@2[0Kx
-.png[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/ionicons.min.css[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/leaflet.awesome-marke[0Kr
-s.css[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/leaflet.awesome-marke[0Kr
-s.js[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-awesomemarkers-2.0.3/leaflet.awesome-marke[0Kr
-s.min.js[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-binding-1.1.0/leaflet.js[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-easybutton-1.3.1/EasyButton-binding.js[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-easybutton-1.3.1/LICENSE[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-easybutton-1.3.1/easy-button.css[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-easybutton-1.3.1/easy-button.js[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-label-0.2.2/images/death.png[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-label-0.2.2/leaflet.label-src.js[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-label-0.2.2/leaflet.label.css[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-label-0.2.2/leaflet.label.js[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.css[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.js[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.min.css[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.min.js[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-minimap-3.3.1/Minimap-binding.js[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-minimap-3.3.1/images/toggle.png[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-minimap-3.3.1/images/toggle.svg[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-providers-1.0.27/CONTRIBUTING.md[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-providers-1.0.27/README.md[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-providers-1.0.27/bower.json[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-providers-1.0.27/css/gh-fork-ribbon.css[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-providers-1.0.27/css/gh-fork-ribbon.ie.css[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-providers-1.0.27/leaflet-providers.js[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-providers-1.0.27/license.md[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-providers-1.0.27/package.json[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-providers-1.0.27/providers.json[0K
- create mode 100644 20181/Pre/libraryjs/leaflet-providers-plugin-1.1.0/leaflet-providers-p[0Kl
-ugin.js[0K
- create mode 100644 20181/Pre/libraryjs/leafletfix-1.0.0/leafletfix.css[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Cifras/Aspirantes y Ad[0Km
-itidos/G_Aspirantes[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git push origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
-[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
-error: cannot spawn rpostback-askpass: No such file or directory[0K
-Username for 'https://github.com':[0K[36G[?25h[?25lUsername for 'https://github.com': e[0K[?25hs[0Kt[0Ka[0Kd[0Ki[0Ks[0Kt[0Ki[0Kc[0Ka[0Ku[0Kn[0K[?25l
-error: cannot spawn rpostback-askpass: No such file or directory[0K
-Password for 'https://estadisticaun@github.com':[0K[50G[?25h[?25l
-[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
-[0K[?25hCounting objects: 101, done.[0K[?25l
-Delta compression using up to 8 threads.[0K
-Compressing objects:  58% (57/97)[0K[1G[?25h[?25lCompressing objects:  76% (74/97)[0K[1G[?25h[?25lCompressing objects:  88% (86/97)[0K[1G[?25h[?25lCompressing objects:  89% (87/97)[0K[1G[?25h[?25lCompressing objects:  90% (88/97)[0K[1G[?25h[?25lCompressing objects:  91% (89/97)[0K[1G[?25h[?25lCompressing objects:  92% (90/97)[0K[1G[?25h[?25lCompressing objects:  93% (91/97)[0K[1G[?25h[?25lCompressing objects:  94% (92/97)[0K[1G[?25h[?25lCompressing objects:  95% (93/97)[0K[1G[?25h[?25lCompressing objects:  98% (96/97)[0K[1G[?25hCompressing objects: 100% (97/97), done.[0K[?25l
-Writing objects:   7% (8/101)[0K[1G[?25h[?25lWriting objects:   7% (8/101), 984.00 KiB | 1.04 MiB/s[0K[1G[?25h[?25lWriting objects:  10% (11/101), 984.00 KiB | 1.04 MiB/s[0K[1G[?25h[?25lWriting objects:  12% (13/101), 984.00 KiB | 1.04 MiB/s[0K[1G[?25h[?25lWriting objects:  14% (15/101), 2.07 MiB | 1.46 MiB/s[0K[1G[?25h[?25lWriting objects:  17% (18/101), 2.07 MiB | 1.46 MiB/s[0K[1G[?25h[?25lWriting objects:  25% (26/101), 2.07 MiB | 1.46 MiB/s[0K[1G[?25h[?25lWriting objects:  26% (27/101), 2.07 MiB | 1.46 MiB/s[0K[1G[?25h[?25lWriting objects:  27% (28/101), 2.07 MiB | 1.46 MiB/s[0K[1G[?25h[?25lWriting objects:  28% (29/101), 2.07 MiB | 1.46 MiB/s[0K[1G[?25h[?25lWriting objects:  32% (33/101), 2.07 MiB | 1.46 MiB/s[0K[1G[?25h[?25lWriting objects:  35% (36/101), 2.07 MiB | 1.46 MiB/s[0K[1G[?25h[?25lWriting objects:  36% (37/101), 2.07 MiB | 1.46 MiB/s[0K[1G[?25h[?25lWriting objects:  44% (45/101), 2.07 MiB | 1.46 MiB/s[0K[1G[?25h[?25lWriting objects:  47% (48/101), 2.07 MiB | 1.46 MiB/s[0K[1G[?25h[?25lWriting objects:  60% (61/101), 2.07 MiB | 1.46 MiB/s[0K[1G[?25hWriting objects: 100% (101/101), 3.78 MiB | 1.73 MiB/s, done.[0K[?25l
-Total 101 (delta 11), reused 0 (delta 0)[0K
-[0K[?25h[?25lremote: Resolving deltas:   0% (0/11)[0K[1G[?25hremote: Resolving deltas: 100% (11/11), completed with 4 local objects.[0K[?25l
-[0K[?25hTo https://github.com/estadisticaun/G_Aspirantes.git[0K[?25l
-   40bc0fb..aced069  master -> master[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Cifras/Aspirantes y Ad[0Km
-itidos/G_Aspirantes[0;36m (master)[0m[0K
-$[0K[3G[?25h[0m[0Kbash: cut: command not found[0K[?25l
-]0;:/c/Users/Alberto/Documents/ONP/Oficina Nacional de Estadística/Cifras/Aspirantes y Admitidos/G_Aspirantes[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Cifras/Aspirante[0Ks
- y Admitidos/G_Aspirantes[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
 [0K[?25hOn branch master[0K[?25l
 Your branch is up-to-date with 'origin/master'.[0K
 [0K
@@ -945,9 +9,9 @@ Changes not staged for commit:[0K
         [0;31mmodified:   .Rproj.user/B994EF53/console06/918B94D1[0m[0K
         [0;31mmodified:   .Rproj.user/B994EF53/console06/INDEX001[0m[0K
         [0;31mmodified:   .Rproj.user/B994EF53/pcs/files-pane.pper[0m[0K
-        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-83F51829/49391B78[0m[0K
-        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-83F51829/49391B78-contents[0m[0K
-        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-83F51829/lock_file[0m[0K
+        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-F2A060E7/49391B78[0m[0K
+        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-F2A060E7/49391B78-contents[0m[0K
+        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-F2A060E7/lock_file[0m[0K
         [0;31mmodified:   20181/Pre/Nac_col1.html[0m[0K
         [0;31mmodified:   20181/Pre/Nac_comb.html[0m[0K
         [0;31mmodified:   20181/Pre/Nac_dpto.html[0m[0K
@@ -956,83 +20,7 @@ Changes not staged for commit:[0K
 Untracked files:[0K
   (use "git add <file>..." to include in what will be committed)[0K
 [0K
-        [0;31m.Rproj.user/B994EF53/sources/prop/[0m[0K
-        [0;31m.Rproj.user/B994EF53/sources/s-D0FE0F4D/[0m[0K
-        [0;31m.Rproj.user/shared/notebooks/paths[0m[0K
-[0K
-no changes added to commit (use "git add" and/or "git commit -a")[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Cifras/Aspirante[0Ks
- y Admitidos/G_Aspirantes[0;36m (master)[0m[0K
-$[0K[3G[?25h[0m[0Kbash: cut: command not found[0K[?25l
-]0;:/c/Users/Alberto/Documents/ONP/Oficina Nacional de Estadística/Cifras/Aspirantes y Admitidos/G_Aspirantes[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Cifras/Aspirante[0Ks
- y Admitidos/G_Aspirantes[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
-[0K[?25hOn branch master[0K[?25l
-Your branch is up-to-date with 'origin/master'.[0K
-[0K
-Changes not staged for commit:[0K
-  (use "git add/rm <file>..." to update what will be committed)[0K
-  (use "git checkout -- <file>..." to discard changes in working directory)[0K
-[0K
-        [0;31mmodified:   .Rproj.user/B994EF53/console06/918B94D1[0m[0K
-        [0;31mmodified:   .Rproj.user/B994EF53/console06/INDEX001[0m[0K
-        [0;31mmodified:   .Rproj.user/B994EF53/pcs/files-pane.pper[0m[0K
-        [0;31mmodified:   .Rproj.user/B994EF53/pcs/windowlayoutstate.pper[0m[0K
-        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-83F51829/49391B78[0m[0K
-        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-83F51829/49391B78-contents[0m[0K
-        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-83F51829/lock_file[0m[0K
-        [0;31mmodified:   20181/Pre/Nac_col1.html[0m[0K
-        [0;31mmodified:   20181/Pre/Nac_comb.html[0m[0K
-        [0;31mmodified:   20181/Pre/Nac_dpto.html[0m[0K
-        [0;31mmodified:   20181/Pre/Nac_mun.html[0m[0K
-[0K
-Untracked files:[0K
-  (use "git add <file>..." to include in what will be committed)[0K
-[0K
-        [0;31m.Rproj.user/B994EF53/sources/prop/[0m[0K
-        [0;31m.Rproj.user/B994EF53/sources/s-D0FE0F4D/[0m[0K
-        [0;31m.Rproj.user/shared/notebooks/paths[0m[0K
-[0K
-no changes added to commit (use "git add" and/or "git commit -a")[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Cifras/Aspirante[0Ks
- y Admitidos/G_Aspirantes[0;36m (master)[0m[0K
-$[0K[3G[?25h[0m[0Kbash: cut: command not found[0K[?25l
-]0;:/c/Users/Alberto/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Aspirantes y Admitidos/G_Aspirantes[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/As[0Kp
-irantes y Admitidos/G_Aspirantes[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
-[0K[?25hOn branch master[0K[?25l
-Your branch is up-to-date with 'origin/master'.[0K
-[0K
-Changes not staged for commit:[0K
-  (use "git add/rm <file>..." to update what will be committed)[0K
-  (use "git checkout -- <file>..." to discard changes in working directory)[0K
-[0K
-        [0;31mmodified:   .Rproj.user/B994EF53/console06/918B94D1[0m[0K
-        [0;31mmodified:   .Rproj.user/B994EF53/console06/INDEX001[0m[0K
-        [0;31mmodified:   .Rproj.user/B994EF53/pcs/files-pane.pper[0m[0K
-        [0;31mmodified:   .Rproj.user/B994EF53/pcs/windowlayoutstate.pper[0m[0K
-        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-83F51829/49391B78[0m[0K
-        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-83F51829/49391B78-contents[0m[0K
-        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-83F51829/lock_file[0m[0K
-        [0;31mmodified:   20181/Pre/A_modalidad.html[0m[0K
-        [0;31mmodified:   20181/Pre/Nac_col1.html[0m[0K
-        [0;31mmodified:   20181/Pre/Nac_comb.html[0m[0K
-        [0;31mmodified:   20181/Pre/Nac_dpto.html[0m[0K
-        [0;31mmodified:   20181/Pre/Nac_mun.html[0m[0K
-        [0;31mmodified:   20181/Pre/S_edad.html[0m[0K
-        [0;31mmodified:   20181/Pre/S_puntaje.html[0m[0K
-        [0;31mmodified:   20181/Pre/S_puntajec.html[0m[0K
-[0K
-Untracked files:[0K
-  (use "git add <file>..." to include in what will be committed)[0K
-[0K
-        [0;31m.Rproj.user/B994EF53/sources/prop/[0m[0K
-        [0;31m.Rproj.user/B994EF53/sources/s-F2A060E7/[0m[0K
-        [0;31m.Rproj.user/shared/notebooks/paths[0m[0K
+        [0;31m.Rproj.user/B994EF53/sources/s-F95A0791/[0m[0K
 [0K
 no changes added to commit (use "git add" and/or "git commit -a")[0K
 [0K[?25h[?25l
