@@ -1,82 +1,4 @@
 
-warning: LF will be replaced by CRLF in 20191/Nal/Pre/libraryjs/nouislider-7.0.10/jquery.nouisl[0Ki
-der.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20191/Nal/Pre/libraryjs/nouislider-7.0.10/jquery.nouisl[0Ki
-der.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20191/Nal/Pre/libraryjs/pdfmake-1.10.16/pdfmake.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20191/Nal/Pre/libraryjs/proj4js-2.3.15/proj4.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20191/Nal/Pre/libraryjs/selectize-0.12.0/selectize.boot[0Ks
-trap3.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in 20191/Nal/Pre/libraryjs/selectize-0.12.0/selectize.min.[0Kj
-s.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Aspirantes y [0KA
-dmitidos/G_Aspirantes[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25hC[0Ka[0Kr[0Kg[0Ka[0K[24G[?25l$ git commit -m "Carga P[0K[?25h[?25l$ git commit -m "Carga[0K[24G[?25h[?25l$ git commit -m "Carga p[0K[?25he[0Kr[0Ki[0Kd[0Ko[0K[31G[30G[?25l$ git commit -m "Carga perid[0K[?25h[?25l$ git commit -m "Carga peri[0K[?25h[?25l$ git commit -m "Carga per[0K[?25h[?25l$ git commit -m "Carga pe[0K[?25h[?25l$ git commit -m "Carga p[0K[?25he[0Kr[0Ki[0Ko[0Kd[0Ko[0K[32G[?25l$ git commit -m "Carga periodo 2[0K[?25h0[0K1[0K9[0K-[0K1[0K"[0K[?25l
-[0K[?25h[master b931ed6] Carga periodo 2019-1[0K[?25l
- 540 files changed, 107567 insertions(+), 1881 deletions(-)[0K
- rewrite .Rproj.user/B994EF53/console06/918B94D1 (92%)[0K
- rewrite .Rproj.user/B994EF53/console06/INDEX001 (87%)[0K
- create mode 100644 20191/Nal/Pre/A_admitidos.html[0K
- create mode 100644 20191/Nal/Pre/A_discapacidad.html[0K
- create mode 100644 20191/Nal/Pre/A_edad.html[0K
- create mode 100644 20191/Nal/Pre/A_estrato.html[0K
- create mode 100644 20191/Nal/Pre/A_modalidad.html[0K
- create mode 100644 20191/Nal/Pre/A_nacionalidad.html[0K
- create mode 100644 20191/Nal/Pre/A_paes.html[0K
- create mode 100644 20191/Nal/Pre/A_peama.html[0K
- create mode 100644 20191/Nal/Pre/A_sede.html[0K
- create mode 100644 20191/Nal/Pre/A_sexo.html[0K
- create mode 100644 20191/Nal/Pre/A_tipo.html[0K
- create mode 100644 20191/Nal/Pre/Nac_col1.html[0K
- create mode 100644 20191/Nal/Pre/Nac_comb.html[0K
- create mode 100644 20191/Nal/Pre/Nac_dpto.html[0K
- create mode 100644 20191/Nal/Pre/Nac_mun.html[0K
- create mode 100644 20191/Nal/Pre/Resi_col1.html[0K
- create mode 100644 20191/Nal/Pre/Resi_comb.html[0K
- create mode 100644 20191/Nal/Pre/Resi_dpto.html[0K
- create mode 100644 20191/Nal/Pre/Resi_mun.html[0K
- create mode 100644 20191/Nal/Pre/S_admitidos.html[0K
- create mode 100644 20191/Nal/Pre/S_discapacidad.html[0K
- create mode 100644 20191/Nal/Pre/S_edad.html[0K
- create mode 100644 20191/Nal/Pre/S_estrato.html[0K
- create mode 100644 20191/Nal/Pre/S_modalidad.html[0K
- create mode 100644 20191/Nal/Pre/S_nacionalidad.html[0K
- create mode 100644 20191/Nal/Pre/S_paes.html[0K
- create mode 100644 20191/Nal/Pre/S_peama.html[0K
- create mode 100644 20191/Nal/Pre/S_puntaje.html[0K
- create mode 100644 20191/Nal/Pre/S_puntajec.html[0K
- create mode 100644 20191/Nal/Pre/S_sede.html[0K
- create mode 100644 20191/Nal/Pre/S_sexo.html[0K
- create mode 100644 20191/Nal/Pre/S_tipo.html[0K
- create mode 100644 20191/Nal/Pre/Serie.html[0K
- create mode 100644 20191/Nal/Pre/T_admitidos.html[0K
- create mode 100644 20191/Nal/Pre/T_discapacidad.html[0K
- create mode 100644 20191/Nal/Pre/T_edad.html[0K
- create mode 100644 20191/Nal/Pre/T_estrato.html[0K
- create mode 100644 20191/Nal/Pre/T_modalidad.html[0K
- create mode 100644 20191/Nal/Pre/T_nacionalidad.html[0K
- create mode 100644 20191/Nal/Pre/T_paes.html[0K
- create mode 100644 20191/Nal/Pre/T_peama.html[0K
- create mode 100644 20191/Nal/Pre/T_sede.html[0K
- create mode 100644 20191/Nal/Pre/T_sexo.html[0K
- create mode 100644 20191/Nal/Pre/T_tipo.html[0K
- create mode 100644 20191/Nal/Pre/libraryjs/Proj4Leaflet-0.7.2/proj4-compressed.js[0K
- create mode 100644 20191/Nal/Pre/libraryjs/Proj4Leaflet-0.7.2/proj4.js[0K
- create mode 100644 20191/Nal/Pre/libraryjs/Proj4Leaflet-0.7.2/proj4leaflet.js[0K
- create mode 100644 20191/Nal/Pre/libraryjs/bootstrap-3.3.7/bootstrap-theme.min.css[0K
- create mode 100644 20191/Nal/Pre/libraryjs/bootstrap-3.3.7/bootstrap.min.css[0K
- create mode 100644 20191/Nal/Pre/libraryjs/bootstrap-3.3.7/bootstrap.min.js[0K
- create mode 100644 20191/Nal/Pre/libraryjs/bootstrap-3.3.7/font-awesome.min.css[0K
- create mode 100644 20191/Nal/Pre/libraryjs/bootstrap-3.3.7/fonts/FontAwesome.otf[0K
- create mode 100644 20191/Nal/Pre/libraryjs/bootstrap-3.3.7/fonts/fontawesome-webfont.eot[0K
- create mode 100644 20191/Nal/Pre/libraryjs/bootstrap-3.3.7/fonts/fontawesome-webfont.svg[0K
  create mode 100644 20191/Nal/Pre/libraryjs/bootstrap-3.3.7/fonts/fontawesome-webfont.ttf[0K
  create mode 100644 20191/Nal/Pre/libraryjs/bootstrap-3.3.7/fonts/fontawesome-webfont.woff[0K
  create mode 100644 20191/Nal/Pre/libraryjs/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.[0Ke
@@ -1030,4 +952,82 @@ no changes added to commit (use "git add" and/or "git commit -a")[0K
 [0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Aspirantes y Admitidos/G_[0KA
 spirantes[0;36m (master)[0m[0K
 $[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25h[?25l$ git[0K[7G[?25h[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/sources/s-EE9689E4/49391B78.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Aspirantes y Admitidos/G_[0KA
+spirantes[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m #[0K[?25h[?25l$ git commit -m[0K[17G[?25h[?25l$ git commit -m "[0K[?25hA[0Kj[0Ku[0Ks[0Kt[0Ke[0K[25G[?25l$ git commit -m "Ajuste s[0K[?25he[0Kd[0Ke[0Ks[0K[31G[?25l$ git commit -m "Ajuste sedes a[0K[?25hs[0Kp[0Ki[0Kr[0Ka[0Kn[0Kt[0Ke[0Ks[0K"[0K[?25l
+[0K[?25h[master ff6463a] Ajuste sedes aspirantes[0K[?25l
+ 8 files changed, 102 insertions(+), 104 deletions(-)[0K
+ rewrite .Rproj.user/B994EF53/console06/INDEX001 (87%)[0K
+ rename .Rproj.user/B994EF53/sources/{s-3E0D2A6A => s-EE9689E4}/49391B78 (100%)[0K
+ rename .Rproj.user/B994EF53/sources/{s-3E0D2A6A => s-EE9689E4}/49391B78-contents (100%)[0K
+ rename .Rproj.user/B994EF53/sources/{s-3E0D2A6A => s-EE9689E4}/lock_file (100%)[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Aspirantes y Admitidos/G_[0KA
+spirantes[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git push origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
+[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
+error: cannot spawn rpostback-askpass: No such file or directory[0K
+Username for 'https://github.com':[0K[36G[?25h[?25lUsername for 'https://github.com': e[0K[?25hs[0Kt[0Ka[0Kd[0Ki[0Ks[0Kt[0Ki[0Kc[0Ka[0Ku[0Kn[0K[?25l
+error: cannot spawn rpostback-askpass: No such file or directory[0K
+Password for 'https://estadisticaun@github.com':[0K[50G[?25h[?25l
+[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
+[0K[?25hCounting objects: 14, done.[0K[?25l
+Delta compression using up to 8 threads.[0K
+Compressing objects: 100% (12/12), done.[0K
+Writing objects: 100% (14/14), 1.92 KiB | 1.92 MiB/s, done.[0K
+Total 14 (delta 8), reused 0 (delta 0)[0K
+[0K[?25hremote: Resolving deltas: 100% (8/8), completed with 8 local objects.[0K[?25l
+[0K[?25hTo https://github.com/estadisticaun/G_Aspirantes.git[0K[?25l
+   a65c3f0..ff6463a  master -> master[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Aspirantes y Admitidos/G_[0KA
+spirantes[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up-to-date with 'origin/master'.[0K
+[0K
+Changes not staged for commit:[0K
+  (use "git add <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/console06/918B94D1[0m[0K
+[0K
+no changes added to commit (use "git add" and/or "git commit -a")[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Aspirantes y Admitidos/G_[0KA
+spirantes[0;36m (master)[0m[0K
+$[0K[3G[?25h[0m[0Kbash: cut: command not found[0K[?25l
+]0;:/c/Users/Alberto/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Aspirantes y Admitidos/G_Aspirantes[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Aspirantes y Admitidos/G_[0KA
+spirantes[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up-to-date with 'origin/master'.[0K
+[0K
+Changes not staged for commit:[0K
+  (use "git add/rm <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/console06/918B94D1[0m[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/console06/INDEX001[0m[0K
+        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-EE9689E4/49391B78[0m[0K
+        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-EE9689E4/49391B78-contents[0m[0K
+        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-EE9689E4/lock_file[0m[0K
+        [0;31mmodified:   20191/Nal/Pre/A_sede.html[0m[0K
+        [0;31mmodified:   20191/Nal/Pre/S_sede.html[0m[0K
+        [0;31mmodified:   20191/Nal/Pre/T_sede.html[0m[0K
+[0K
+Untracked files:[0K
+  (use "git add <file>..." to include in what will be committed)[0K
+[0K
+        [0;31m.Rproj.user/B994EF53/sources/s-15FDCAF7/[0m[0K
+[0K
+no changes added to commit (use "git add" and/or "git commit -a")[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Aspirantes y Admitidos/G_[0KA
+spirantes[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
 [0K[?25h
